@@ -46,3 +46,27 @@ To reduce the uncertainty about demand, the director wants to implement predicti
 2. Modeling of the solution using the Random Forest algorithm.
 3. Deployment approach.
 4. Presentation of the project to Hotel Chain C company board members.
+
+
+
+# [Project 3: Data Mining - Segmentation/clusters ](https://github.com/BeatrizChumbinho/Clustering-Customer-Segmentation-for-PVA-)
+
+*Problem type:* Data Mining - Lapsed Donos of PVA segmentation
+
+## General Context
+
+This dataset was provided by the Paralyzed Veterans of America (PVA). PVA is a non-profit
+organization that provides programs and services for US veterans with spinal cord injuries or disease.
+With an in-house database of 13 million donors, PVA is also one of the largest direct mail fundraisers in
+the United States of America.
+
+As an non-profit organization, PVA needs donor´s contribution and it is necessary to provide to each donor the causes in which he is more interested, in order to feel affinity. 
+One group that is of particular interest to PVA is "Lapsed" donors. These are individuals who made their last donation to PVA 13 to 24 months ago. They represent an important group to PVA, since the longer someone goes without donating, the less likely they will be to give again. Therefore, recapturing these former donors is a critical aspect of PVA's fundraising efforts.
+
+
+## Project Overview
+
+1. Exploratory Data Analysis - EDA - in order to identify the most valuable variables to create patterns.
+2. Segmentation development: using the SOM on top of hierarchical algorithm in order to create clusters.
+3. Interpretation of each cluster.
+
