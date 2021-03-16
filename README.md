@@ -51,7 +51,7 @@ To reduce the uncertainty about demand, the director wants to implement predicti
 
 # [Project 3: Data Mining - Segmentation/clusters ](https://github.com/BeatrizChumbinho/Clustering-Customer-Segmentation-for-PVA-)
 
-*Problem type:* Data Mining - Lapsed Donos of PVA segmentation
+*Problem type:* Data Mining - Segmentation
 
 ## General Context
 
