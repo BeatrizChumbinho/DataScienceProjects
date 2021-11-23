@@ -70,3 +70,65 @@ One group that is of particular interest to PVA is "Lapsed" donors. These are in
 2. Segmentation development: using the SOM on top of hierarchical algorithm in order to create clusters.
 3. Interpretation of each cluster.
 
+
+# [Project 4: Customer Segmentation ](https://github.com/BeatrizChumbinho/customer_segmentationWWW)
+
+*Problem type:* Customer Segmentation / Clustering
+
+## General Context
+
+Finding new customers is vital in every industry. The process for finding new
+customers begins by learning as much as possible from the existing customers.
+Understanding current customers allow organizations to identify groups of
+customers that have different product interests, different market
+participation, or different response to marketing efforts.
+
+Market segmentation, the process of identifying customers’ groups, makes use
+of geographic, demographic, psychographic, and behavioral characteristics of
+customers. By understanding the differences between the different segments,
+organizations can make better strategic choices about opportunities, product
+definition, positioning, promotions, pricing, and target marketing.
+
+
+## Project Overview
+
+1. Exploratory Data Analysis - EDA - in order to identify the most valuable variables to create patterns.
+2. Clusters development:Using SOM on top of Hierachical clustering.
+3. Relevance of findings with a business application.
+4. Presentation of the project to WWWW company board members.
+
+
+
+
+
+
+# [Project 5: Business Intelligence ](https://app.powerbi.com/groups/b3ae7c72-8805-4682-b07f-50014952b201/reports/220eea07-9936-475c-9da8-b2496a6921f6/ReportSection2e8fe454bd31e47b8c8a)
+
+Problem type:* Business Intelligence - Support Decision Making
+
+## General Context
+
+My client, "Javi Indian foods Ltd" , is the owner of two indian food takeaway restaurants. The first restaurant, located in London, UK is open since 2015 and motivated by the success of the business, Javi bought another indian restaurant in Tampa, USA in 2017, that restaurant has been operating also since 2015 and also worked only in a takeaway concept. 
+
+In order to improve his business and so increase the sales, our client requested our services of business intelligence, to support his further decisions.
+
+The menus differ a little from one restaurant to another. In London, our client realized that his target clients, tourists, really appreciate mainstream indian dishes. Since Tampa is a more residential place, the clients demand more diversity there, this way the menu of the second restaurant has more dishes. Both restaurants sell drinks, sauces and food including small snacks.
+
+## Business Needs
+Sales Forecast:
+ - How much orders will we have next month?
+ - What is the affluence throughout the day/ week/ month/ year? 
+
+Inventory Management: 
+ - What are the most/least ordered dishes in each restaurant?
+ - What are the most ordered categories in each restaurant?
+
+Marketing: 
+ - What is the average price per order?
+
+Human Resource Management:
+ - How many orders is an employee in charge of?
+ - How is my staff productivity?
+
+Creation of a data warehouse with a dimensional model that translates the different business entities relations. 
+ - How can I store and monitor the business data?
