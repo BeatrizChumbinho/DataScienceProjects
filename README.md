@@ -132,3 +132,22 @@ Human Resource Management:
 
 Creation of a data warehouse with a dimensional model that translates the different business entities relations. 
  - How can I store and monitor the business data?
+
+
+
+
+
+ # [Project 6: Data Mining Recommender system](https://github.com/BeatrizChumbinho/RecommenderSystem)
+
+Problem type:* Data Mining - Recommend Items
+
+## General Context
+
+ManyGiftsUK is a UK-based non-store online retailer that is focused on selling unique all-occasion gifts. The company was established in 1981 but has only recently shifted completely online. With the new data the company has collected, they expect to build a recommender system that is able to facilitate user choices.
+Additionally, a particular challenge is the cold start problem - how can we suggest relevant items to new customers?
+
+## Project Overview
+
+1. Exploratory Data Analysis - EDA - in order to identify some patterns and insights on the data.
+2. Modeling, using Alternating Least Squares - ALS.
+3. Evaluation of the final model using, namely, precision and AUC.
