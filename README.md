@@ -137,7 +137,7 @@ Creation of a data warehouse with a dimensional model that translates the differ
 
 
 
- # [Project 6: Data Mining Recommender system](https://github.com/BeatrizChumbinho/RecommenderSystem)
+ # [Project 6: Data Mining - Recommender system](https://github.com/BeatrizChumbinho/RecommenderSystem)
 
 Problem type:* Data Mining - Recommend Items
 
